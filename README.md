@@ -7,11 +7,11 @@ If you are interested in my services please just contact to me, let's work toget
 <br>
 
 <h2 align="center">
-  <b>Look My Skills, something that interests you?</b>
+  Look My Skills, something that interests you?
 </h2>
 
 <h2 align="left">
-  <b>Backend</b>
+  Backend
 </h2>
 
 <p>
@@ -22,7 +22,7 @@ If you are interested in my services please just contact to me, let's work toget
 </p>
 
 <h2 align="left">
-  <b>Frontend</b>
+  Frontend
 </h2>
 
 <p>
