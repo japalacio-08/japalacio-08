@@ -28,8 +28,8 @@ If you are interested in my services please just contact to me, let's work toget
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=blue&labelColor=282828">
-  <img src="https://img.shields.io/badge/-React-98b982?style=for-the-badge&logo=react&logoColor=blue&labelColor=282828">
+  <img src="https://img.shields.io/badge/-CSS-9cf?style=for-the-badge&logo=css3&logoColor=9cf&labelColor=282828">
+  <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=blue&labelColor=282828">
 </div>
 </p>
 
