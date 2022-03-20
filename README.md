@@ -14,18 +14,14 @@ If you are interested in my services please just contact to me, let's work toget
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-yellow?style=for-the-badge&logo=python&logoColor=blue&labelColor=282828">
    <img src="https://img.shields.io/badge/-Ruby-critical?style=for-the-badge&logo=ruby&logoColor=critical&labelColor=282828">
-</div>
-<br/>
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-9cf?style=for-the-badge&logo=css3&logoColor=9cf&labelColor=282828">
-  <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=blue&labelColor=282828">
-</div>
-<br/>
-<div align="center">
-  <img src="https://img.shields.io/badge/-postgres-blue?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=282828">
+   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
+   <img src="https://img.shields.io/badge/-CSS-9cf?style=for-the-badge&logo=css3&logoColor=9cf&labelColor=282828">
+   <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react&logoColor=blue&labelColor=282828">
+   <img src="https://img.shields.io/badge/-postgres-blue?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=282828">
   <img src="https://img.shields.io/badge/-mysql-yellow?style=for-the-badge&logo=mysql&logoColor=yellow&labelColor=282828">
 </div>
+<br/>
+
 </p>
 
 ```python
