@@ -2,10 +2,8 @@
   <b>Abhigyan Trips</b>
 </h1>
 
-Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
-and learning programming through small projects  on the side.
-
+Heya! I'm Jeyson Palacio, a Sr Software Engineer, I am a person who loves software development and technology in general and this is a great plus.
+If you are interested in my services please just contact to me, let's work together.
 <br>
 
 <p>
@@ -17,20 +15,19 @@ and learning programming through small projects  on the side.
 </p>
 
 ```python
-class AbhigyanTrips():
+class JeysonPortfolio():
     
   def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
+    self.name = "Jeyson Anibal Palacio Palma";
+    self.username = "japalacio-08";
+    self.location = "Girardot, Colombia";
+    self.twitter = "@japalacio072";
   
   def __str__(self):
     return self.name
 
 if __name__ == '__main__':
-    me = AbhigyanTrips()
+    me = JeysonPortfolio()
 ```
 
 <div align="center">
