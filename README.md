@@ -41,17 +41,13 @@ if __name__ == '__main__':
 ## My Statistics
 
 <br/>
-<div>
-  <p align="left">
-    <a href="https://abhigyantrips.dev/">
+<p align="center">
+  <a href="#">
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=japalacio-08&show_icons=true&theme=gruvbox&hide_border=true" />
-    </a>
-  </p>
-</div>
+  </a>
+</p>
 
 <br>
-
-
 
 ------
 
