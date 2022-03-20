@@ -60,10 +60,10 @@ if __name__ == '__main__':
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/japalacio-08/github-readme-stats"><img alt="Jeyson's Github Stats" src="https://github-readme-stats.vercel.app/api?username=japalacio-08&show_icons=true&count_private=true" height="192px"/></a>
+    <a href="https://github.com/japalacio-08/github-readme-stats"><img alt="Jeyson's Github Stats" src="https://github-readme-stats.vercel.app/api?username=japalacio-08&show_icons=true&count_private=true&theme=gruvbox" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=japalacio-08&show_icons=true&locale=en&layout=compact" alt="japalacio-08" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=japalacio-08&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="japalacio-08" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -73,7 +73,7 @@ if __name__ == '__main__':
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/japalacio-08"><img alt="Jeyson's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=japalacio-08&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/japalacio-08"><img alt="Jeyson's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=japalacio-08&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=gruvbox" /></a>
   <br/>
 
 </details>
