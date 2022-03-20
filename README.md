@@ -69,7 +69,7 @@ if __name__ == '__main__':
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/japalacio-08"><img alt="Jeyson's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=japalacio-08&custom_title=Candida%20Noronha's%20Contribution%20Graph&theme=gruvbox" /></a>
+   <a href="https://github.com/japalacio-08"><img alt="Jeyson's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=japalacio-08&custom_title=Jeyson%Palacio's%20Contribution%20Graph&theme=gruvbox" /></a>
   <br/>
 
 </details>
