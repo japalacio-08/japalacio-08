@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>Abhigyan Trips</b>
+  <b>Jeyson, Technology Enthusiast</b>
 </h1>
 
 Heya! I'm Jeyson Palacio, a Sr Software Engineer, I am a person who loves software development and technology in general and this is a great plus.
@@ -15,7 +15,7 @@ If you are interested in my services please just contact to me, let's work toget
 </p>
 
 ```python
-class JeysonPortfolio():
+class TechEnthusiast():
     
   def __init__(self):
     self.name = "Jeyson Anibal Palacio Palma";
@@ -27,7 +27,7 @@ class JeysonPortfolio():
     return self.name
 
 if __name__ == '__main__':
-    me = JeysonPortfolio()
+    me = TechEnthusiast()
 ```
 
 <div align="center">
@@ -49,16 +49,15 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
   <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=japalacio-08&show_icons=true&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=japalacio-08&custom_title=Jeyson's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
 
 ------
 
-Credit: [abhigyantrips](https://github.com/abhigyantrips)
+Credit: [japalacio-08](https://github.com/japalacio-08)
 
-Last Edited on: 24/12/2021
+Last Edited on: 20/03/2022
