@@ -6,11 +6,13 @@ Heya! I'm Jeyson Palacio, a Sr Software Engineer, I am a person who loves softwa
 If you are interested in my services please just contact to me, let's work together.
 <br>
 
+## Look My Skills, something that interests you?
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-d1a01f?style=for-the-badge&logo=css3&logoColor=d1a01f&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
+   <img src="https://img.shields.io/badge/-Ruby-98b982?style=for-the-badge&logo=ruby&logoColor=critical&labelColor=white">
 </div>
 </p>
 
