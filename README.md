@@ -47,7 +47,6 @@ if __name__ == '__main__':
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=japalacio-08&show_icons=true&theme=gruvbox&hide_border=true" />
     </a>
   </p>
-  [![Jeyson Palacio' Activity Graph](https://activity-graph.herokuapp.com/graph?username=japalacio-08&custom_title=Jeyson's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
 </div>
 
 <br>
