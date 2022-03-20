@@ -23,7 +23,7 @@ If you are interested in my services please just contact to me, let's work toget
 </div>
 <br/>
 <div align="center">
-  <img src="https://img.shields.io/badge/-postgres-c58545?style=for-the-badge&logo=postgres&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-postgres-c58545?style=for-the-badge&logo=postgresql&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-mysql-9cf?style=for-the-badge&logo=mysql&logoColor=9cf&labelColor=282828">
 </div>
 </p>
