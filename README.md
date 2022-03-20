@@ -30,32 +30,25 @@ if __name__ == '__main__':
     me = TechEnthusiast()
 ```
 
-<div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing" width="50%">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=japalacio-08&show_icons=true&theme=gruvbox&hide_border=true" />
-  </a>
-</div>
+## My Fav Playlist
 
-<!--
 <div align="center">
-  <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://spotify-readme-theta-virid.vercel.app/api?scan=true&theme=dark" width="240px">
+  <a href="https://open.spotify.com/user/japalacio0108">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing" width="50%">
   </a>
 </div>
--->
 
 ## My Statistics
 
 <br/>
 <p align="left">
   <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=japalacio-08&show_icons=true&theme=gruvbox&hide_border=true" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=japalacio-08&show_icons=true&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=japalacio-08&custom_title=Jeyson's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
+[![Jeyson Palacio' Activity Graph](https://activity-graph.herokuapp.com/graph?username=japalacio-08&custom_title=Jeyson's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
 
 ------
 
