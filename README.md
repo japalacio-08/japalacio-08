@@ -32,7 +32,8 @@ if __name__ == '__main__':
 
 <div align="center">
   <a href="https://open.spotify.com/user/6s6pbtefezpookh8gwnkko15v">
-    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
+    <img src="https://readme-spotify-tingz.vercel.app/api/now-playing" width="240px">
+    <img width="240px" src="https://github-readme-stats.vercel.app/api?username=japalacio-08&show_icons=true&theme=gruvbox&hide_border=true" />
   </a>
 </div>
 
