@@ -37,19 +37,17 @@ const jeyson = {
 
 <div align="center">
 
-### 🎯 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+### 💭 Random Dev Quote
 
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🚀 Should I Deploy Today?
+
+<div align="center">
+  <a href="https://shouldideploy.today/">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fshouldideploy.today%2Fapi%3Ftz%3DAmerica%2FBogota&query=%24.message&style=for-the-badge&logo=rocket&logoColor=white&label=Deploy&color=blue" alt="Should I Deploy Today?">
+  </a>
 </div>
-
-### 💼 Professional Summary
-
-> **Hands-on senior engineer and technical leader** with over **10 years of experience** designing scalable, multitenant applications and platform services. Proven track record building distributed backend systems, reusable service architectures, and integrating emerging infrastructure tools to improve developer velocity and system reliability.
->
-> **Passionate about building both the foundation and the abstractions** to scale engineering teams and support rapid product evolution.
-
-**Core Competencies:** `Python & Django Development` • `Ruby on Rails` • `Multitenant SaaS Platforms` • `Event-Driven Architecture (Kafka)` • `Infrastructure as Code (Terraform/Pulumi)` • `Distributed Systems & Microservices` • `API Design & gRPC` • `Database Optimization (PostgreSQL/ClickHouse)` • `Cloud DevOps (AWS/GCP)` • `Strategic Technical Leadership`
-
----
 
 ## 🛠️ Tech Arsenal
 
@@ -317,26 +315,6 @@ graph LR
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=japalacio-08&custom_title=Jeyson's%20Contribution%20Graph&bg_color=0D1117&color=7c3aed&line=7c3aed&point=7c3aed&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="GitHub Activity Graph"/>
   </div>
 </details>
-
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🚀 Should I Deploy Today?
-
-<div align="center">
-  <a href="https://shouldideploy.today/">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fshouldideploy.today%2Fapi%3Ftz%3DAmerica%2FBogota&query=%24.message&style=for-the-badge&logo=rocket&logoColor=white&label=Deploy&color=blue" alt="Should I Deploy Today?">
-  </a>
-
-  <i>🟢 Green = Safe to deploy | 🔴 Red = Maybe not! | Live from <a href="https://shouldideploy.today/api?tz=America/Bogota">shouldideploy.today API</a>! 🚀</i>
-</div>
-
-</div>
 
 ---
 
